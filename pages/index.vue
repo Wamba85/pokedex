@@ -44,7 +44,7 @@ export default {
     return {
       selectedFile: null,
       image: 'pokemon-placeholder.png',
-      prediction: 'antani',
+      prediction: 'I can predict only the first 75 pokemon',
     }
   },
   methods: {
